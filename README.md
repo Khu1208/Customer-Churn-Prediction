@@ -60,9 +60,6 @@ Key findings from the project include:
 
 Install required libraries using `pip install -r requirements.txt`.
 
-## License
-Include any license information or acknowledgments as necessary.
-
 ## Author
 Your Name (@Khu1208)
 
